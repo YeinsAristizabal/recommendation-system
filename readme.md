@@ -140,3 +140,6 @@ source .venv/bin/activate   # En Windows: .venv\Scripts\activate
 
 3. Ejecutar interfaz Streamlit
 - streamlit run app/app.py
+
+### Arquitectura
+![Arquitectura](media/arquitecture.drawio.png)
